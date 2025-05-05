@@ -85,5 +85,32 @@ Create .env file in /client with:
 REACT_APP_API_URL=http://localhost:8000
 ```
 
+---
+
+## 📸 Screenshots
+
+### 🧾 Standup Update
+![Standup Update](./screenshots/standupupdate.png)
+
+### 📬 Email Summary Page
+![Email Summary](./screenshots/email.png)
+
+### 📋 Acceptance Criteria Generator
+![Acceptance](./screenshots/acceptance.png)
+
+### 🎯 Story Points Estimator
+![Estimations](./screenshots/estimations.png)
+
+### 🏠 Homepage
+![Homepage](./screenshots/homepage.png)
+
+### 🗓 Sprint Planning View
+![Sprint Planning](./screenshots/sprintplanning.png)
+
+### 📊 Standups Dashboard
+![Standups](./screenshots/standups.png)
+
+---
+
 🛠️ Author
 Utkarsha Gawade.
