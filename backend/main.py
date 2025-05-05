@@ -4,7 +4,11 @@ from apscheduler.schedulers.background import BackgroundScheduler
 from backend.routers import tasks, email, standups
 from backend.routers import acceptance
 from backend.routers import estimations
+from backend.routers import standups
 import requests
+from dotenv import load_dotenv
+
+load_dotenv()
 
 app = FastAPI()
 
